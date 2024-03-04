@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css')}}">
+</head>
+<body>
+    <div class="main-container">
+        <div class="chatbox-container">
+            <nav class="navbar">
+                <h1>Chatbot</h1>
+            </nav>
+            <div class="chat-content" id="chatContent">
+                
+            </div>
+            <form id="messageForm">
+                <div class="message-input">
+                    <input type="text" id="userInput" name="userInput" placeholder="Type your message...">
+                    <button type="submit">Send</button>
+                </div>
+            </form>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
