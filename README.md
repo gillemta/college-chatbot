@@ -62,14 +62,14 @@ The College Enquiry Chatbot is designed to provide quick answers to common quest
   ```
 
 3. **Install Dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
+  ```bash
+  pip install -r requirements.txt
+  ```
 
 4. **Run the Application Locally:**
-   ```bash
-   python main.py
-   ```
+  ```bash
+  python main.py
+  ```
    Then open your browser and navigate to http://127.0.0.1:8080 to interact with the chatbot.
 
 ### Deployed Version
