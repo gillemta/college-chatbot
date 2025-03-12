@@ -51,7 +51,7 @@ The College Enquiry Chatbot is designed to provide quick answers to common quest
 
 1. **Clone the Repository:**
   ```bash
-  git clone https://github.com/yourusername/college-chatbot.git
+  git clone https://github.com/gillemta/college-chatbot.git
   cd college-chatbot
   ```
 
