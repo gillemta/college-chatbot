@@ -1,4 +1,4 @@
-# College Enquiry Chatbot
+p# College Enquiry Chatbot
 
 An interactive cloud-based chatbot deployed on Google Compute Engine that provides information about the University of Cincinnati. The chatbot welcomes users, collects basic user information, and then allows them to ask a set list of questions about the college.
 
@@ -102,5 +102,3 @@ The College Enquiry Chatbot is designed to provide quick answers to common quest
 Below is a demo GIF showcasing the chatbot in action:
 
 ![College Chatbot Demo](assets/college-chatbot-demo.gif)
-
-*Replace `assets/college-chatbot-demo.gif` with the actual path or URL to your demo GIF.*
